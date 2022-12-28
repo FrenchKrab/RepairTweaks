@@ -1,0 +1,9 @@
+name: RepairTweaks
+main: com.kraby.repairtweaks.RepairTweaks
+version: 1.0.0
+
+commands:
+  rtreload:
+    description: Reload the RepairTweaks config file
+    usage: /rtreload
+    permission: RepairTweaks.reload
